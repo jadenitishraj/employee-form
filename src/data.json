@@ -1,0 +1,19 @@
+[
+    {
+      "id": "EMP001",
+      "name": "John Doe",
+      "address": "123 Main St, Anytown, USA",
+      "aadharCardNumber": "1234-5678-9012",
+      "panCardNumber": "ABCDE1234F",
+      "contactNumber": "+1-234-567-8901"
+    },
+    {
+      "id": "EMP002",
+      "name": "Jane Smith",
+      "address": "456 High St, Othertown, USA",
+      "aadharCardNumber": "9876-5432-1098",
+      "panCardNumber": "XYZAB6789C",
+      "contactNumber": "+1-345-678-9012"
+    }
+  ]
+  
